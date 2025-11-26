@@ -1,4 +1,3 @@
-destreamlit
 chromadb
 qdrant-client
 sentence-transformers
