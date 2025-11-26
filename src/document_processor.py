@@ -6,7 +6,7 @@ Handles PDF loading, text extraction, chunking, and math-aware splitting.
 from typing import List, Dict
 import PyPDF2
 import pdfplumber
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 from src.config import Config
 import os
 import re
