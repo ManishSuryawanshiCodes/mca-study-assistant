@@ -7,5 +7,4 @@ pdfplumber
 groq
 python-dotenv
 requests
-
-
+langchain
