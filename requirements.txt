@@ -1,5 +1,6 @@
 chromadb
 qdrant-client==1.7.2
+streamlit==1.39.0
 sentence-transformers
 PyPDF2
 pdfplumber
