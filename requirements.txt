@@ -1,5 +1,5 @@
 chromadb
-qdrant-client
+qdrant-client==1.7.2
 sentence-transformers
 PyPDF2
 pdfplumber
